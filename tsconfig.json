@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES3",
+    "sourceMap": true,
+    "outDir": "src",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "resolveJsonModule":true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "declaration": true
+  },
+  "include": [
+    "util/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

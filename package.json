@@ -1,0 +1,34 @@
+{
+  "name": "egyptian-nationalid",
+  "version": "1.0.0",
+  "description": "Egyptian national identity checker and data extraction from the Egyptian national identity",
+  "author": "shuruhatik",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "types": "./src/index.d.ts",
+  "files": [
+    "/src",
+    "./config.js"
+  ],
+  "keywords": [
+    "egyptian",
+    "egyptian national id",
+    "national id",
+    "id",
+    "egyptian-nationalid",
+    "رقم القومي",
+    "رقم القومي مصر",
+    "رقم القومي المصري",
+    "رقم قومي"
+  ],
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "@types/node": "^18.11.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Shuruhatik/egyptian-nationalid.git"
+  }
+}
